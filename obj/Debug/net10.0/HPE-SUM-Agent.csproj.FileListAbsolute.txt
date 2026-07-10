@@ -1,0 +1,15 @@
+C:\Users\robin.kiefer\git\HPE-SUM-Agent\bin\Debug\net10.0\HPE-SUM-Agent.exe
+C:\Users\robin.kiefer\git\HPE-SUM-Agent\bin\Debug\net10.0\HPE-SUM-Agent.deps.json
+C:\Users\robin.kiefer\git\HPE-SUM-Agent\bin\Debug\net10.0\HPE-SUM-Agent.runtimeconfig.json
+C:\Users\robin.kiefer\git\HPE-SUM-Agent\bin\Debug\net10.0\HPE-SUM-Agent.dll
+C:\Users\robin.kiefer\git\HPE-SUM-Agent\bin\Debug\net10.0\HPE-SUM-Agent.pdb
+C:\Users\robin.kiefer\git\HPE-SUM-Agent\obj\Debug\net10.0\HPE-SUM-Agent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin.kiefer\git\HPE-SUM-Agent\obj\Debug\net10.0\HPE-SUM-Agent.AssemblyInfoInputs.cache
+C:\Users\robin.kiefer\git\HPE-SUM-Agent\obj\Debug\net10.0\HPE-SUM-Agent.AssemblyInfo.cs
+C:\Users\robin.kiefer\git\HPE-SUM-Agent\obj\Debug\net10.0\HPE-SUM-Agent.csproj.CoreCompileInputs.cache
+C:\Users\robin.kiefer\git\HPE-SUM-Agent\obj\Debug\net10.0\HPE-SUM-Agent.sourcelink.json
+C:\Users\robin.kiefer\git\HPE-SUM-Agent\obj\Debug\net10.0\HPE-SUM-Agent.dll
+C:\Users\robin.kiefer\git\HPE-SUM-Agent\obj\Debug\net10.0\refint\HPE-SUM-Agent.dll
+C:\Users\robin.kiefer\git\HPE-SUM-Agent\obj\Debug\net10.0\HPE-SUM-Agent.pdb
+C:\Users\robin.kiefer\git\HPE-SUM-Agent\obj\Debug\net10.0\HPE-SUM-Agent.genruntimeconfig.cache
+C:\Users\robin.kiefer\git\HPE-SUM-Agent\obj\Debug\net10.0\ref\HPE-SUM-Agent.dll
